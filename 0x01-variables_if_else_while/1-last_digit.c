@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print a string based on the random number assigned n 
+ * Description: Print a string based on the random number assigned n
  * Return: 0
  */
 int main(void)

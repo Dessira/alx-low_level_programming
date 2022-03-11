@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
-* main - main block 
+* main - main block
 * description: Assign random number to n
 * print if n is positive, negative or zero.
 * Return: 0
