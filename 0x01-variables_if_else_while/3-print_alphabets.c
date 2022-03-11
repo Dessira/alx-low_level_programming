@@ -4,7 +4,7 @@
  * Description: Print both lowercase and uppercase using putchar.
  * Return: 0
  */
-int main(0)
+int main(void)
 {
 	char c; 
 	char m;
