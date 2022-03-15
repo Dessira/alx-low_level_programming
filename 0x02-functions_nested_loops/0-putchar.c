@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	char c;
-	for (c = "_putchar"; c++;)
+	char *c;
+	for (*c = "_putchar"; c++;)
 	{
-		_putchar(c);
+		_putchar(*c);
 	}
 	_putchar('\n');
 	return (0);
