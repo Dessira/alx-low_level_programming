@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
  *  print_numbers - prints numbers.
  *  @c: integer character
- *  Return: void 
+ *  Return: void
  */
 
 void print_numbers(void)
