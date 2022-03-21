@@ -3,7 +3,7 @@
  * _puts - prints string
  * Return: 0
  */
-void _puts(char *s)
+void _puts(char *str)
 {
 	int i;
 	for (i = 0; i != '\0'; i++)
