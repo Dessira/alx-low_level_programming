@@ -4,7 +4,7 @@
  * _strncpy - Entry point
  * @dest: copy to
  * @src: copy from
- * @n: number of char
+ * @n: max num of bytes
  * Return: 0
  */
 char *_strncpy(char *dest, char *src, int n)
