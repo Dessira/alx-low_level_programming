@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * -strpbrk - function that searches string
+ * _strpbrk - function that searches string
  *  @s: string
  *  @accept: prefix
  *  Return: s or NULL
