@@ -16,13 +16,13 @@ unsigned int _strspn(char *s, char *accept)
 	for (i = 0; s[i] != '\0'; i++)
 	{
 		k = 0;
-		
+
 		for (j = 0; acccept[j] != '\0'; j++)
 		{
 			if (accept[j] == s[i])
 			{
 				bytes++;
-				k = 0;
+				k = 1;
 			}
 		}
 		if (k == 0)
