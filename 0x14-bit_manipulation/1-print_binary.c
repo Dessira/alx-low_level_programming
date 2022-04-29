@@ -25,7 +25,7 @@ void print_binary(unsigned long int n)
 
 	for (k = l - 1; k >= 0; k--)
 	{
-		j = n >> l;
+		j = n >> k;
 		if (j & 1)
 			printf("1");
 		else
